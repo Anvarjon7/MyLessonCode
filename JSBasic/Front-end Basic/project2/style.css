@@ -1,0 +1,42 @@
+ul {
+    list-style-type: square; 
+}
+.no-marker {
+    list-style-type: none;
+}
+.type {
+    list-style-type: disc;
+}
+ol {
+    list-style-type: initial;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+}
+th {
+    border:1px solid black;
+}
+tr:nth-child(odd) {
+    background-color: black;
+    color: white
+}
+
+
+/* 
+    border: размерГраница типГраницы цветГраницы;
+        тип границы:  solid - одна линия
+                        doubled - двойная линия
+                        dotted - рамка из точек 
+
+
+    selector {
+        property: value;
+    }
+
+    селектор {
+        свойство: значение;
+    }
+*/

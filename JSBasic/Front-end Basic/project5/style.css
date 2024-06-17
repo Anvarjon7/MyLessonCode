@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section {
+    background-color: var(--Silver, #EEEFF1);
+    padding: 100px 0;
+}
+h2 {
+    font-size: 32px;
+    text-align: center;
+}
+p {
+    width: 30%;
+    color: #727272;
+    text-align: center;
+    margin: 50px auto 65px;
+}
+form {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}

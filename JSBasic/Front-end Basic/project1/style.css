@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(116, 5, 5);
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 50px; /* размер шрифта */
+}
+a {
+    font-size: 20px; /*размер текста */
+    color: yellowgreen;
+    background-color: black;
+}
+div {
+    margin-bottom: 50px;
+    padding: 30px; /* отступ со всех сторон */
+}
+.post-1 {
+    background-color: darkgray;
+}
+.post-2 {
+    background-color: burlywood;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+img{
+    display: block; /* картинка задают блочные параметры */
+    margin: auto; /* автоматический отступ справа и cлева */
+    width: 500px;
+    margin-bottom: 25px;
+}
+p {
+    color: green;
+    font-size: 24px;
+}
+
+
+/*
+ селектор {
+    свойство: значение:
+
+margin;
+padding;
+*/

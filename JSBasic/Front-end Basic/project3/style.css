@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+    /* margin-top; margin-left; margin-bottom; margin-right */
+    /* top right bottom left */
+    margin: 10px 5px 7px 11px;
+    /* top (right left) bottom */
+    margin: 10px 5px 7px;
+    /* (top bottom) (right left) */
+    margin: 10px 5px;
+    /* (top right bottom left) */
+    margin: 10px;
+  
+    /*padding-top;padding-left;padding-bottom; padding-right */
+    /* top right bottom left */
+    padding: 10px 5px 7px 11px;
+    /* top (right left) bottom */
+    padding: 10px 5px 7px;
+    /* (top bottom) (right left) */
+    padding: 10px 5px;
+    /* (top right bottom left) */
+    padding: 10px;
+  }
